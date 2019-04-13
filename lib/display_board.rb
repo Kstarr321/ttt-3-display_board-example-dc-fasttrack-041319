@@ -7,8 +7,8 @@ def display_board
   puts "   |   |   "
 end
 
-def cross(array)
-  puts "          |          "
+def cross(array,str,strr)
+  puts "  #{str}        | #{strr}          "
   puts "          |          "
   puts "          |          "
   puts "---------------------"
