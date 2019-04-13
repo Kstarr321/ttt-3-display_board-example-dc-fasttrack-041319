@@ -16,4 +16,7 @@ def cross(array,str,strr)
   puts "          |          "
   puts "          |          "
   puts "          |          "
+end
+
+cross(["good","bad"],"pros","cons")
   
