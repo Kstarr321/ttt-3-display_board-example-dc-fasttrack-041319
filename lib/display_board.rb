@@ -7,5 +7,13 @@ def display_board
   puts "   |   |   "
 end
 
-
+def cross(array)
+  puts "          |          "
+  puts "          |          "
+  puts "          |          "
+  puts "---------------------"
+  puts ""
+  puts ""
+  puts ""
+  puts ""
   
