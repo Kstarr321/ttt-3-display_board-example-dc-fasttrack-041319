@@ -12,7 +12,7 @@ def cross(array,str,strr)
   puts "          |          "
   puts "          |          "
   puts "---------------------"
-  puts "   #{array[0]}   |   #{array[1]}  "
+  puts "   #{array[0]}   |  #{array[1]}   "
   puts "          |          "
   puts "          |          "
   puts "          |          "
